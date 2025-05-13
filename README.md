@@ -1,5 +1,29 @@
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>- 🌍 From Maskeliya, Sri Lanka<br>- 🎓 Full Stack Web Development student at Unicom TIC (2024)<br>- 💻 Passionate about both Frontend and Backend Development<br>- 🧠 Always eager to learn and solve real-world problems<br>- 🛠 Tech Stack:<br>  - Backend: .NET, SQL<br>  - Frontend: Angular, JavaScript, Bootstrap, CSS<br>  - Tools: GitHub, Figma, Canva<br>- 🚀 Projects:<br>  - DVD Management CRUD System<br>  - IT Institute Management System<br>- 🏅 Certifications:<br>  - AI for Beginners (HP LIFE)<br>  - Cybersecurity Awareness (HP LIFE)<br>  - Data Science & Analytics (HP LIFE)<br>  - Diploma in Software Development (Unicom TIC)<br>- 🤝 Strong in teamwork, communication, problem-solving, and critical thinking<br>- 📫 Reach me at: [dharsha1ty@gmail.com](mailto:dharsha1ty@gmail.com)<br>
+## <small>💫 About Me</small>
+
+<small>
+
+### 👨‍💻 About Me
+
+- 🌍 From Maskeliya, Sri Lanka  
+- 🎓 Full Stack Web Development student at Unicom TIC (2024)  
+- 💻 Passionate about both Frontend and Backend Development  
+- 🧠 Always eager to learn and solve real-world problems  
+- 🛠 Tech Stack:  
+  - Backend: .NET, SQL  
+  - Frontend: Angular, JavaScript, Bootstrap, CSS  
+  - Tools: GitHub, Figma, Canva  
+- 🚀 Projects:  
+  - DVD Management CRUD System  
+  - IT Institute Management System  
+- 🏅 Certifications:  
+  - AI for Beginners (HP LIFE)  
+  - Cybersecurity Awareness (HP LIFE)  
+  - Data Science & Analytics (HP LIFE)  
+  - Diploma in Software Development (Unicom TIC)  
+- 🤝 Strong in teamwork, communication, problem-solving, and critical thinking  
+- 📫 Reach me at: [dharsha1ty@gmail.com](mailto:dharsha1ty@gmail.com)  
+
+</small>
 
 
 ## 🌐 Socials:
